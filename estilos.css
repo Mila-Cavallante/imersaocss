@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-codigos-binarios-digitais_1412-211.jpg?size=626&ext=jpg);
+  background-size: 100vw 100vh ;
+  font-family: arial;
+  
+}
+.menu {
+  background-color: white;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle, .site-title {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
